@@ -33,8 +33,9 @@ I like taking ideas from hackathon whiteboards to working demos — recent work 
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razi-m&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razi-m&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
+ <img src="https://github-readme-stats.vercel.app/api?username=razi-m&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razi-m&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="165" />
 </p>
 
 ---
